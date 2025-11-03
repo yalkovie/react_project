@@ -1,0 +1,16 @@
+div {
+    width: 25vw;
+    height: 35vh;
+    background-color: green;
+    color: white;
+    padding: 2.5vh 1vw;
+    border-radius: 2vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+/* div > img {
+
+} */
