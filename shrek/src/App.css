@@ -1,0 +1,11 @@
+#bunner {
+    background-image: url('https://algoritmikaclub.github.io/frontend/React-2/dist/assets/bg-Byd0zi1Y.jpg');
+    background-position-x: 50%;
+    background-position-y: 50%;
+    background-size: cover;
+    display: block;
+    color: rgb(255, 255, 255);
+    height: calc(320 / 1080 * 120vh);
+    width: 100%;
+    margin: 2.5vh 0;
+}

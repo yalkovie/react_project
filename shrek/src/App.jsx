@@ -13,6 +13,7 @@ function App() {
     <>
     <Header />
     <Button />
+    <div id='bunner'></div>
     <Footer />
     </>
   )
